@@ -40,7 +40,7 @@ public class DocketConfig {
                 .title("Loyalty Pay Client Backend Service API")
                 .description("Provides APIs for Client Backend sample")
                 .version("1.0.0")
-                .contact(new Contact("Bridge2 Solutions", "", ""))
+                .contact(new Contact("Yuvaraj venkatesan", "", ""))
                 .build())
             .alternateTypeRules(      // Rules run in order that they are defined
                 AlternateTypeRules.newRule(
